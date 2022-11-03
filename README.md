@@ -14,11 +14,11 @@ Generating jazz music charts for the iRealPro mobile app.
 ## How to run
 1. Open `chart_generator.py` 
 2. Modify `props` at the bottom of the file, specifying:
-  1. `key` The key of the chart you want to generate
-  2. `starting_chords` The first four starting chords of the chart
-  3. `style` The Style of the Chart or None
-  4. `influenced_composer` The Composer of the chart or None
-  5. `generated_chord_count` The number of generated chords, on top of the provided 4
+    1. `key` The key of the chart you want to generate
+    2. `starting_chords` The first four starting chords of the chart
+    3. `style` The Style of the Chart or None
+    4. `influenced_composer` The Composer of the chart or None
+    5. `generated_chord_count` The number of generated chords, on top of the provided 4
 3. Run the file, and check the console for the iRealPro url. This can be opened in Safari to load the chart into your app.
 
 ## Sample Output
