@@ -23,6 +23,7 @@ Generating jazz music charts for the iRealPro mobile app.
 
 ## Sample Output
 irealbook://AI%20Generated%20Chart%20%231=M.C.%20ChartGeneratorAI=Latin=C=n=%5BT44C69%2C%20%2C%20%2C%20%7CDbdi-7%2C%20%2C%20%2C%20%7CD-7%2C%20%2C%20%2C%20%7CG13b9%2C%20%2C%20%2C%20%7CF6%2C%20%2C%20%2C%20%7CE-7%2C%20%2C%20%2C%20%7CA7b9%2C%20%2C%20%2C%20%7CD-7%2C%20%2C%20%2C%20%7CD-7%2C%20%2C%20%2C%20%7CF-7%2C%20%2C%20%2C%20%7CBb7%2C%20%2C%20%2C%20%7CEb7%2C%20%2C%20%2C%20%7CDb7%2311%2C%20%2C%20%2C%20%7CC7%2C%20%2C%20%2C%20%7CC7%2C%20%2C%20%2C%20%7CC7%2C%20%2C%20%2C%20Z
+![IMG_4632](https://user-images.githubusercontent.com/53892067/203913349-f5f1ae4a-baec-4e1d-a20c-c3291aa7d1c5.jpg)
 
 ## How it works
 ### Model Input
